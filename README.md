@@ -7,7 +7,10 @@ Documents:
 * [Persona](./docs/Persona.pdf)
 * [Certificate](./docs/Certificate.jpg)
 
-Design Files:
-* [Wireframe](./design/Wireframe.xd)
-* [Mood Boards](./design/Mood%20Boards.xd)
-* [Prototype](./design/Prototype%20-%20Hifi.xd)
+Design 1 Files:
+* [Wireframe](./design/design_1/Wireframe.xd)
+* [Mood Boards](./design/design_1/Mood%20Boards.xd)
+* [Prototype](./design/design_1/Prototype%20-%20Hifi.xd)
+
+Design 2 Files:
+* [Prototype](./design/design_2/Prototype.xd)
